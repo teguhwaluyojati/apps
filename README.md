@@ -1,4 +1,4 @@
-# Project Name
+# Laravel 11 Apps
 
 ## Introduction
 
@@ -61,14 +61,7 @@ Generate the application key, which is used to secure user sessions and other en
 Run the database migrations to set up the required tables:
 ```
 
-### 6. Start the Development Server
-
-```
-Start the Laravel development server:
-    php artisan serve
-```
-
-### 7. Access the Application
+### 6. Access the Application
 
 ```
 Open your web browser and navigate to:
