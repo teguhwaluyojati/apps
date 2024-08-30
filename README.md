@@ -65,7 +65,7 @@ Run the database migrations to set up the required tables:
 
 ```
 Start the Laravel development server:
-    Start the Laravel development server:
+    php artisan serve
 ```
 
 ### 7. Access the Application
